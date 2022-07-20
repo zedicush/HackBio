@@ -1,2 +1,0 @@
-# HackBio
-genomics workshop
